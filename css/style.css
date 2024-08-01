@@ -68,6 +68,7 @@ body
 .navbar a.active 
 {
     color: var(--main-color);
+    transition: .4s;
 }
 
 #menu-icon 
